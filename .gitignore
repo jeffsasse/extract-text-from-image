@@ -1,0 +1,8 @@
+# cache
+.DS_Store
+
+# venv
+/venv
+
+# security
+dev.md
